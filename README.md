@@ -1,6 +1,6 @@
-<div justify-content="space-around" style="display: inline-block;justify-content: space-around;">
-    <img widht="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=adrian-oliveira&count_private=true&show_icons=true&theme=dark" />
-    <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-oliveira&layout=compact&count_private=true&theme=dark" />
+<div style="display: inline-block;">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=adrian-oliveira&count_private=true&show_icons=true&theme=dark" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-oliveira&layout=compact&count_private=true&theme=dark" />
 </ div>
 
 <hr/>
