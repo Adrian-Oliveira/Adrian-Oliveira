@@ -1,6 +1,8 @@
 <div style="display: inline-block;">
+    <a href="https://github.com/Adrian-Oliveira">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=adrian-oliveira&count_private=true&show_icons=true&theme=dark" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-oliveira&layout=compact&count_private=true&theme=dark" />
+    </a>
 </ div>
 
 <hr/>
