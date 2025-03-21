@@ -6,15 +6,6 @@
 
 <hr/>
 
-<h1>Social accounts:</h1>
-<div style="display: inline-block">
-    <a href="https://www.linkedin.com/in/adrian-oliveira-alves/" rel="nofollow noreferrer">
-        <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-    </a>
-</div>
-
-<hr/>
-
 <h1>Technologies:</h1>
 <div style="display: inline-block">
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
